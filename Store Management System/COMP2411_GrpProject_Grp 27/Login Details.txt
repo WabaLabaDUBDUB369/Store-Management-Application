@@ -1,0 +1,115 @@
+Database: db
+
+****************************************************************************************************
+* Once the record of an employee or customer is changed or deleted, the database gets updated and  *
+* the previous login details of those users can not be used to login to the application            *    
+*                                                                                                  *
+* 												   *
+* The database (SQL script file) needs to be executed on the COMP Oracle Server yet again,         *
+* in order to login or view those previous records						   *
+*												   *
+****************************************************************************************************
+
+
+********************************************
+
+Employee Login Details:
+
+MANAGERS:
+
+1) User ID: W938
+   Password: W938
+
+2) User ID: A655
+   Password: A655
+
+
+GENERAL EMPLOYEES:
+
+3) User ID: C923
+   Password: C923
+
+4) User ID: J495
+   Password: J495
+
+5) User ID: D010
+   Password: D010
+
+6) User ID: D238
+   Password: D238
+
+********************************************
+
+Customer Login Details:
+
+
+1) User ID: J101
+   Password: J101
+
+2) User ID: T809
+   Password: T809
+
+3) User ID: C483
+   Password: C483
+
+4) User ID: B508
+   Password: B508
+
+5) User ID: J658
+   Password: J658
+
+6) User ID: J201
+   Password: J201
+
+7) User ID: R001
+   Password: R001
+
+8) User ID: C998
+   Password: C998
+
+9) User ID: D881
+   Password: D881
+
+10) User ID: P771
+   Password: P771
+
+11) User ID: H434
+   Password: H434
+
+12) User ID: R604
+   Password: R604
+
+13) User ID: k929
+   Password: k929
+
+14) User ID: M112
+   Password: M112
+
+15) User ID: J556
+   Password: J556
+
+16) User ID: V009
+   Password: V009
+
+17) User ID: D192
+   Password: D192
+
+18) User ID: A339
+   Password: A339
+
+*******************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

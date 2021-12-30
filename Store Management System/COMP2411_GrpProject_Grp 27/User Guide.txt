@@ -1,0 +1,24 @@
+***********  THIS APPLICATION WILL ONLY WORK ON THE POLYU CAMPUS NETWORK **************
+
+- First, we need to import the "Shop Management System Application" folder into any IDE with Java support
+
+- Run the "Start.java" class file in the start_application package
+
+- The application should then work as expected
+
+
+
+
+- For connecting to the Oracle server, I've used my own Oracle account's username and password
+
+- If you want to connect to your own Oracle account, then first deploy the database in your own COMP Oracle account
+
+- Then change the username and password in each of the Oracle server connections made in the following classes:
+
+	Customer.java
+	Employee.java
+	Product.java
+  	Supplier.java
+	User.java
+
+(All of these classes are in the "Attributes" package)
